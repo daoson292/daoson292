@@ -1,66 +1,67 @@
-<!-- ================= HEADER WAVE & TYPING ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0b5a,50:6b21a8,100:a855f7&height=230&section=header&text=%C4%90%C3%A0o%20S%C6%A1n%20%E2%80%A2%20C%E1%BB%95%20S%C6%B0%20%E2%9A%94%EF%B8%8F&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=T%E1%BA%A1p%20Tu%20%C4%90%E1%BA%A1i%20%C4%90%E1%BA%A1o%20%7C%20Luy%E1%BB%87n%20C%E1%BB%95%20Tr%C3%B9ng%20AI%20G%C3%A1nh%20C%C3%B2ng%20L%C6%B0ng&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
-</p>
+<!-- ================= HEADER ================= -->
+<div align="center">
+
+# Hi there, I'm Dao Son 👋
+### 💻 Fullstack Bug Creator • Chạy được là do may mắn
+
+<a href="https://github.com/daoson292">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ch%E1%BA%A1y+%C4%91%C6%B0%E1%BB%A3c+l%C3%A0+do+may+m%E1%BA%AFn%2C+l%E1%BB%97i+do+cache;L%C3%A0m+web%2C+bot+Discord%2FTele+%26+Minecraft+server;B%E1%BA%ADt+ngrok+k%C3%A9o+anh+em+v%C3%A0o+test+server;C%C3%A0o+d%E1%BB%AF+li%E1%BB%87u+d%E1%BA%A1o+%26+Th%E1%BB%A3+ch%E1%BA%BF+bot;%C4%90%E1%BB%99i+c%E1%BB%A9u+h%E1%BB%99+AI+(Claude%2C+ChatGPT)+g%C3%A1nh+c%C3%B2ng+l%C6%B0ng;Chuy%C3%AAn+gia+Ctrl%2BC+v%C3%A0+Ctrl%2BV+xuy%C3%AAn+l%E1%BB%A5c+%C4%91%E1%BB%8Ba" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://github.com/daoson292">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=T%E1%BA%A1p%20Tu%20H%E1%BB%87%20L%E1%BA%ADp%20Tr%C3%ACnh%20%E2%80%A2%20M%E1%BB%97i%20th%E1%BB%A9%20bi%E1%BA%BFt%20m%E1%BB%99t%20t%C3%AD%20%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Chuy%C3%AAn%20luy%E1%BB%87n%20C%E1%BB%95%20Tr%C3%B9ng%20AI%3A%20Claude%2C%20ChatGPT%2C%20Gemini;L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20Minecraft%20%26%20Ph%C3%A1p%20s%C6%B0%20Plugin%20Server;Ngrok%20th%C3%B4ng%20thi%C3%AAn%20l%E1%BB%99%20%E2%80%A2%20K%C3%A9o%20anh%20em%20v%C3%A0o%20test%20server;C%C3%A0o%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1o%20%26%20Th%E1%BB%A3%20%C4%91%E1%BA%BB%20Bot%20Discord%2C%20Telegram" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng_th%C3%A1i-%C4%90ang_th%E1%BB%9F-22c55e?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug-T%E1%BB%B1_sinh_t%E1%BB%B1_di%E1%BB%87t-ef4444?style=for-the-badge&logo=bug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deadline-%C4%90ang_d%C3%AD_s%C3%A1t_n%C3%A1ch-f59e0b?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tr%C3%ACnh_%C4%91%E1%BB%99-T%C3%A2m_linh-8b5cf6?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%E1%BA%A3nh_gi%E1%BB%9Bi-Luy%E1%BB%87n_Kh%C3%AD_T%E1%BA%A7ng_9-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ph%C3%A1i-T%E1%BA%A1p_Tu_B%C3%A1ch_Ngh%E1%BB%87-3B82F6?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/L%C3%B4i_Ki%E1%BA%BFp-Server_Crash-EF4444?style=for-the-badge&logo=danger" />
-  <img src="https://img.shields.io/badge/C%E1%BB%95_Tr%C3%B9ng-Nu%C3%B4i_V%E1%BA%A1n_Con_AI-10B981?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</div>
 
-<br />
+---
 
-## 🧙‍♂️ Đôi nét về Cổ Sư
+### 🪪 Đôi nét về khổ chủ
 
-* 📜 **Đạo hiệu:** Cổ Sư Đào Sơn (Môn đồ phái Tạp Tu, truyền nhân đời thứ n của Hàn Lập).
-* ⚔️ **Sở trường tu luyện:** Cái gì cũng đụng một tí. Từ làm web, dựng server Minecraft cho anh em quẩy, code plugin Spigot/Paper, cho đến vác Python đi cào data dạo hay làm bot Discord/Tele tự động.
-* 🐛 **Bí thuật luyện Cổ:** Thay vì ngồi còng lưng gõ từng dòng, ta chọn cách thuần phục vạn Cổ Trùng AI (Claude, ChatGPT, Gemini) để chúng nó gánh còng lưng hộ.
-* 🏃‍♂️ **Tâm pháp sinh tồn:** *"Gặp bug nhỏ thì thả Cổ Trùng cắn nát. Gặp bug to hoặc server sập thì học Hàn Lập... cắm đầu thi triển Thần Hành Thuật chạy trước!"*
+* 🔭 **Dự án hiện tại:** Ngồi debug cái lỗi mà tối qua trước khi đi ngủ vẫn đinh ninh là "fix xong rồi".
+* 🛠️ **Sở trường thực tế:** Mỗi thứ đụng một tí. Từ làm web, dựng server Minecraft cho anh em quẩy, code plugin Spigot/Paper, cho đến vác Python đi cào data dạo hay làm bot Discord, Telegram.
+* 💬 **Hỏi tôi về:** Mọi thứ trên đời. Tôi không biết thì tôi đi hỏi ChatGPT rồi kể lại cho bạn.
+* ⚡ **Fun Fact:** Tôi không bao giờ viết bug. Đó là các tính năng ẩn được cài cắm để kiểm tra độ tỉnh táo của Tester.
 
-<br />
+---
 
-## 📊 Bảng Thống Kê Tu Vi (Số liệu nội bộ Tông Môn)
+### 📊 Thống kê hoạt động (Số liệu đã kiểm duyệt)
 
-| Chỉ số tu vi | Đẳng cấp đạt được | Lời bình của Chưởng Môn |
+| Chỉ số | Số lượng | Ghi chú thực tế |
 | :--- | :---: | :--- |
-| 🪪 **Đạo Pháp Chủ Tu** | `Tạp Tu Thập Cẩm` | Web, Minecraft, Bot, Cào data... gom hết vào nồi lẩu |
-| 🐛 **Trình Độ Luyện Cổ** | `Đại Cổ Sư` | Thao túng Claude, ChatGPT, Gemini code thay phần việc |
-| ⚡ **Độ Kiếp Thất Bại** | `99+ lần` | Do dính thiên lôi NullPointerException & Docker crash |
-| 🌐 **Thông Thiên Lộ (ngrok)**| `Vô số lần` | Mở port chui kéo anh em vào test web & server game |
-| ☕ **Hấp Thụ Linh Dược** | `500 Lít Cà Phê` | Loại độc dược duy nhất giữ cho Cổ Sư còn thở qua đêm |
+| ⭐ **Stars nhận được** | `-1` | Tự bấm star lấy hên xong lỡ tay click lần nữa |
+| 📦 **Tổng số Commit** | `404` | Số lần commit bằng 1/10 số lần gõ `git reset --hard` |
+| 🔀 **Pull Requests** | `1` | Bị từ chối thẳng thừng kèm câu hỏi: *"Em viết văn hay code thế?"* |
+| 🐛 **Bugs tạo ra** | `∞` | Tự hào đóng góp vào sự phát triển của ngành QA |
+| ☕ **Cà phê tiêu thụ** | `500 Lít` | Quy đổi thành 2 dòng code chạy được và 1 cơn đau lưng kinh niên |
 
-<br />
+---
 
-## 🏺 Vạn Cổ Trùng & Pháp Bảo Hộ Thể
+### 🧰 Bộ công cụ sinh tồn (Đội cứu trợ AI)
 
-*(Hệ thống AI Agent và công cụ sinh tồn gánh 90% công lực)*
+*(Gánh 90% công việc và tinh thần của lập trình viên)*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-Ch%C3%AD_T%C3%B4n_C%E1%BB%95-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-V%E1%BA%A1n_N%C4%83ng_C%E1%BB%95-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-H%E1%BB%99_Ph%C3%A1p_C%E1%BB%95-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/StackOverflow-T%C3%A0ng_Kinh_C%C3%A1c-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ctrl%20C%20%2B%20Ctrl%20V-B%E1%BA%A3n_M%E1%BB%87nh_Phi_Ki%E1%BA%BFm-8B5CF6?style=for-the-badge&logo=copy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-Trợ_Lý_Ruột-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-Cứu_Hộ_24%2F7-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-Dự_Phòng-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/StackOverflow-Bác_Sĩ_Tâm_Lý-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ctrl%20C%20%2B%20Ctrl%20V-Vũ_Khí_Tối_Thượng-8B5CF6?style=for-the-badge&logo=copy&logoColor=white" />
 </p>
 
-* 👑 **Claude 3.5 Sonnet (Chí Tôn Cổ):** Cổ trùng gánh 80% logic phức tạp, bảo gì viết nấy, ngoan ngoãn dịu dàng.
-* 💬 **ChatGPT-4o (Vạn Năng Cổ):** Chuyên gia cãi lý, dịch thuật và bịa lý do tính năng ẩn để giải trình với sếp.
-* 🛡️ **Google Gemini (Hộ Pháp Cổ):** Được thả ra chiến trường mỗi khi hai con cổ trên kêu hết lượt dùng free.
-* 🗡️ **Ctrl + C & Ctrl + V:** Bản mệnh pháp bảo từ thuở sơ cơ, thất lạc nó là phế sạch võ công.
+* **Claude 3.5 Sonnet:** Trợ lý ruột gánh logic khó, bảo gì viết nấy, đọc code không cãi nửa lời.
+* **ChatGPT:** Chuyên gia cãi lý, giải thích bug và bịa lý do tính năng ẩn để báo cáo khách hàng.
+* **Google Gemini:** Đội phản ứng nhanh mỗi khi hai công cụ trên báo hết lượt dùng miễn phí.
+* **Ctrl + C & Ctrl + V:** Kỹ năng bản năng, hỏng hai phím này là tự động xin nghỉ ốm.
 
-<br />
+---
 
-## 🛠️ Tạp Tu Bách Nghệ (Mỗi thứ biết một tí)
+### 🛠️ Kỹ năng thực tế (Mỗi thứ biết một tí)
 
-### 1. Trận Pháp Web & Minecraft Server
+#### 1. Web & Minecraft Server
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft-Spigot%20%2F%20Paper%20Plugin-22C55E?style=for-the-badge&logo=minecraft&logoColor=white" />
@@ -71,69 +72,73 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-* Dựng web giao diện đủ xài, backend đủ chạy, không dám nhận là Senior nhưng cần là có.
-* Chuyên gia trị server Minecraft: Code plugin Paper/Spigot custom vũ khí, quái, event để anh em vào quẩy banh nóc.
+* Dựng web giao diện đủ xài, backend đủ chạy, không dám nhận Pro nhưng giao task là có code.
+* Quản trị server Minecraft: Code plugin Paper/Spigot tùy biến gameplay, item, quái để anh em quẩy vui vẻ.
 
-### 2. Cấm Thuật Tự Động Hóa & Bồ Câu Đưa Tin
+#### 2. Bot & Tự động hóa
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Scraper-C%C3%A0o_D%E1%BB%AF_Li%E1%BB%87u-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraper-Cào_Dữ_Liệu-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
-* Script Python cào dữ liệu tự động phục vụ nhu cầu lười biếng.
-* Nuôi bot Discord & Telegram tự động thông báo, quản lý kênh, tạo trò chơi cho nhóm chat.
+* Viết script Python cào dữ liệu dạo tự động hóa các tác vụ lặp đi lặp lại.
+* Làm bot Discord & Telegram tự động gửi thông báo, quản lý nhóm và tạo mini-game giải trí.
 
-### 3. Khai Mở Không Gian & Đóng Gói (DevOps & Mạng)
+#### 3. Hạ tầng & Mạng (DevOps bình dân)
 <p align="left">
-  <img src="https://img.shields.io/badge/ngrok-Th%C3%B4ng_Thi%C3%AAn_L%E1%BB%99-1F1E38?style=for-the-badge&logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-Mở_Port_Cực_Nhanh-1F1E38?style=for-the-badge&logo=ngrok&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-* **ngrok:** Pháp bảo thần thông mở cổng không gian xuyên modem, đưa web hay server game nội bộ ra ngoài internet trong 3 giây để anh em cùng test.
-* **Docker:** Đóng gói mọi thứ vào lồng bảo hộ. Tiêu chí: *"Chạy ngon trên máy tôi, còn máy bạn lỗi thì do nhân phẩm."*
+* **ngrok:** Công cụ thần thánh mở port qua modem trong 3 giây, kéo bạn bè vào test web hoặc server game ngay lập tức.
+* **Docker:** Đóng gói container sạch sẽ với tôn chỉ: *"Chạy ngon trên máy tôi, máy bạn lỗi thì do nhân phẩm."*
 
-<br />
+---
 
-## ⚠️ Động Phủ Cấm Địa (Cấm Đạo Hữu Tò Mò)
+### 🐍 Con rắn ăn Contribution
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daoson292/daoson292/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daoson292/daoson292/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daoson292/daoson292/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+> * 🟩 **Ô màu xanh đậm:** Hôm đó rảnh, ngồi sửa file `README.md` 20 lần cho bảng nó xanh đẹp mắt.
+> * ⬛ **Ô màu xám (Trống):** Đang trong giai đoạn **Code trong tâm tưởng** (Mental Coding), không tiện bấm commit.
+> * 🎯 *Mục tiêu phấn đấu:* Giữ cho bảng đóng góp một màu xám đồng nhất để bảo vệ thị lực cho người xem.
+
+---
+
+### 🚨 Khu vực cấm bấm
 
 <details>
-  <summary>🚨 <b>CẢNH BÁO:</b> Trận pháp bảo vệ động phủ của Cổ Sư, tuyệt đối không được phá giải!</summary>
+  <summary>⚠️ <b>CẢNH BÁO:</b> Tuyệt đối đừng bấm vào đây!</summary>
   <br />
   <div align="center">
-    <p><b>Đạo hữu tính tò mò y hệt lúc viết code không thèm đọc tài liệu vậy! 🐧</b></p>
-    <p><i>Đã lỡ bước vào cấm địa Vương Lâm / Hàn Lập thì để lại 1 Star cho mấy cái repo ghẻ bên dưới để tích đức, kẻo bị Cổ Trùng bám thân!</i></p>
-    <img src="https://media.tenor.com/-R6rEX35sBUAAAAM/wang-lin-renegade-immortal.gif" width="340" alt="Wang Lin Renegade Immortal" />
+    <p><b>Đã bảo đừng bấm rồi mà tính tò mò vẫn không bỏ! 🐧</b></p>
+    <p><i>Lỡ bấm vào rồi thì để lại 1 Star cho mấy cái repo bên dưới đi chứ đứng ngó làm gì!</i></p>
+    <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="300" alt="Rickroll" />
   </div>
 </details>
 
-<br />
+---
 
-## 🟩 Bí Ẩn Về Bản Đồ Tu Vi (Contribution Graph)
-
-> * 🟩 **Ô màu xanh lục đậm:** Hôm đó rảnh rỗi, ngồi sửa file `README.md` 20 lần cho đồ án tu tiên nhìn có vẻ chăm chỉ.
-> * ⬛ **Ô màu xám đen:** Đang trong trạng thái **Bế Quan Tĩnh Tâm** (Code trong suy nghĩ), hoặc làm nhiệm vụ tuyệt mật của Tông Môn mà GitHub không đủ tư cách ghi nhận.
-> * 🎯 *Tâm nguyện:* Giữ cho toàn bộ bản đồ mang một màu xám đồng nhất để bảo vệ thị lực cho các đồng đạo.
-
-<br />
-
-## 📈 Thống Kê Thật (Khi Thiên Đạo Không Bị Mất Mạng)
+### 📈 Thống kê thật (Dữ liệu khi vũ trụ không lỗi mạng)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daoson292&show_icons=true&theme=tokyonight&border_color=A855F7&bg_color=0D1117&title_color=A855F7&text_color=94A3B8" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daoson292&theme=tokyonight&border_color=A855F7&background=0D1117&ring=A855F7&fire=A855F7" width="48%" />
 </p>
 
-<br />
+---
 
-## 🍶 Góc Trợ Cấp Linh Thạch Nuôi Cổ Sư
+### ☕ Góc cứu trợ lập trình viên
 
-* 💼 **Cầu Duyên Tìm Việc:** Đang mở lòng nhận các chức vị có mức đãi ngộ 5.000 Linh Thạch/tháng, tuần làm 2 ngày, không OT, code lỗi có Lão Đại Senior gánh giùm và Chưởng Môn hay bao trà sữa.
-* 🌟 **Gieo Duyên Tinh Thần:** Mỗi một ngôi sao (Star) các đồng đạo bấm tặng tương đương với 0 Linh Thạch, nhưng giúp Cổ Sư có thêm lý do để... bế quan lười biếng lâu hơn một chút.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0b5a,50:6b21a8,100:a855f7&height=100&section=footer" width="100%" />
-</p>
+* 💼 **Tìm việc:** Đang mở lòng đón nhận công việc lương 5.000$, tuần làm 2 buổi, không OT, code lỗi có Senior gánh giùm và sếp hay bao trà sữa.
+* 🌟 **Ủng hộ tinh thần:** Mỗi một ngôi sao (Star) bạn tặng cho repo của tôi có giá trị quy đổi đúng 0 VNĐ, nhưng giúp tôi có thêm lý do để... bỏ xó dự án đó lâu hơn một chút.
