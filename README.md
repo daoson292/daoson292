@@ -144,3 +144,5 @@
 * 🌟 **Ủng hộ tinh thần:** Mỗi một ngôi sao (Star) bạn tặng cho repo của tôi có giá trị quy đổi đúng 0 VNĐ, nhưng giúp tôi có thêm lý do để... bỏ xó dự án đó lâu hơn một chút.
 
 <!-- Achievement Step 1: Pair Extraordinaire & YOLO -->
+
+<!-- Achievement Step 2: Pull Shark Tier 1 -->
