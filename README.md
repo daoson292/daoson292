@@ -142,3 +142,5 @@
 
 * 💼 **Tìm việc:** Đang mở lòng đón nhận công việc lương 5.000$, tuần làm 2 buổi, không OT, code lỗi có Senior gánh giùm và sếp hay bao trà sữa.
 * 🌟 **Ủng hộ tinh thần:** Mỗi một ngôi sao (Star) bạn tặng cho repo của tôi có giá trị quy đổi đúng 0 VNĐ, nhưng giúp tôi có thêm lý do để... bỏ xó dự án đó lâu hơn một chút.
+
+<!-- Achievement Step 1: Pair Extraordinaire & YOLO -->
