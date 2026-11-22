@@ -52,12 +52,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    <b>Minecraft Spigot/Paper</b> • <b>Telegram Bot</b> • <b>ngrok</b> (mở port kéo anh em vào test trong 3s) • <b>Docker</b> (<i>"Chạy ngon trên máy tôi, máy bạn lỗi thì do nhân phẩm"</i>)
-  </sub>
-</p>
-
 ---
 
 ## 📈 Stats
@@ -76,19 +70,10 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daoson292&theme=tokyonight&utcOffset=7" alt="productive time" />
 </p>
 
-<details>
-  <summary>📊 <b>Thống kê đã kiểm duyệt</b></summary>
-  <br />
-
-| Chỉ số | Số lượng | Ghi chú thực tế |
-| :--- | :---: | :--- |
-| ⭐ **Stars nhận được** | `-1` | Tự bấm star lấy hên xong lỡ tay click lần nữa |
-| 📦 **Tổng số Commit** | `404` | Số lần commit bằng 1/10 số lần gõ `git reset --hard` |
-| 🔀 **Pull Requests** | `1` | Bị từ chối thẳng thừng kèm câu hỏi: *"Em viết văn hay code thế?"* |
-| 🐛 **Bugs tạo ra** | `∞` | Tự hào đóng góp vào sự phát triển của ngành QA |
-| ☕ **Cà phê tiêu thụ** | `500 Lít` | Quy đổi thành 2 dòng code chạy được và 1 cơn đau lưng kinh niên |
-
-</details>
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daoson292&theme=tokyonight" alt="repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daoson292&theme=tokyonight" alt="most commit language" />
+</p>
 
 ---
 
